@@ -161,6 +161,43 @@ public class Logic
     }
 
     // TODO -- add your code here
+    private double boxVolume(double mLength, double mWidth, double mHeight) {
+        return 0;
+    }
 
-    
+    private double boxSurfaceArea(double mLength, double mWidth, double mHeight) {
+        return 0;
+    }
+
+    private double rectanglePerimeter(double mLength, double mWidth) {
+        return 0;
+    }
+
+    private double rectangleArea(double mLength, double mWidth) {
+        return 0;
+    }
+
+    private double sphereVolume(double mRadius) {
+        return 0;
+    }
+
+    private double sphereSurfaceArea(double mRadius) {
+        return 0;
+    }
+
+    private double circleCircumference(double mRadius) {
+        return 0;
+    }
+
+    private double circleArea(double mRadius) {
+        return 0;
+    }
+
+    private double rightTrianglePerimeter(double mLength, double mWidth) {
+        return 0;
+    }
+
+    private double rightTriangleArea(double mLength, double mWidth) {
+        return 0;
+    }
 }
